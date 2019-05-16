@@ -1,6 +1,6 @@
 # Ciência-da-Computação - UNIFEG
 
-Duração do Curso: _ 8 semestres_
+Duração do Curso: _8 semestres_
 
 Período: _Noturno_
 
